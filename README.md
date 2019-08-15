@@ -1,7 +1,6 @@
 "# iqra-portfolio" 
 
-A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
-
+A simple SPA Portfolio template built with React. 
 
 ## How to use
 1. Clone/Download the repo.
